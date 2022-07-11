@@ -1,5 +1,4 @@
-### Hey!!👋Dharshana here!
-
+### Hey!!👋
 I am yet another human exploring the code world!
 
 - 🔭 I’m currently an University Student.
